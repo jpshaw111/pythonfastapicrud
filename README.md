@@ -3,7 +3,7 @@ Fast API Python CRUD
 
 # 1. Clone the Repository
 git clone https://github.com/jpshaw111/pythonfastapicrud.git
-cd repo-name
+cd pythonfastapicrud
 # 2. Create and Activate Virtual Environment
 python -m venv env
 env\Scripts\activate
