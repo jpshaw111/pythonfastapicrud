@@ -1,6 +1,16 @@
 # FastAPI CRUD App with MySQL
 Fast API Python CRUD
 
+# Requirements
+fastapi==0.110.0
+
+uvicorn==0.27.1
+
+sqlalchemy==2.0.29
+
+mysql-connector-python==8.3.0
+
+
 # 1. Clone the Repository
 git clone https://github.com/jpshaw111/pythonfastapicrud.git
 cd pythonfastapicrud
