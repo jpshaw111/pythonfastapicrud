@@ -22,6 +22,7 @@ CREATE TABLE items (
 
 # 4. Update Database Connection
 SQLALCHEMY_DATABASE_URL = "mysql+mysqlconnector://root:@localhost/fastapi_db"
+
 If you're using a password for MySQL, replace @ with :your_password@
 
 # 5. Run the App
