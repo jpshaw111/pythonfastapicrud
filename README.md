@@ -6,6 +6,7 @@ git clone https://github.com/jpshaw111/pythonfastapicrud.git
 cd pythonfastapicrud
 # 2. Create and Activate Virtual Environment
 python -m venv env
+
 env\Scripts\activate
 
 # 3. Set Up MySQL Database
